@@ -1,14 +1,14 @@
 def turn_count(board)
-  i = 0 
+  i = 0
   board.each do |x|
-    if x == " " 
-      i += 1 
-    end 
-  end 
+    if x == " "
+      i += 1
+    end
+  end
   return i 
-end 
+end
 
 def current_player(board)
-end 
+end
 
-def 
+
